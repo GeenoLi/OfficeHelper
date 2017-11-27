@@ -3,3 +3,9 @@
 * > 设如何从word转换为pdf并且保留word大纲=pdf书签模式
 
 ![createorder](images/wordToPdf.png)
+
+--wordKuaisuSheZhiDaGang.png
+
+* > 设如何快速设置word大纲模式
+
+![createorder](wordKuaisuSheZhiDaGang.png)
