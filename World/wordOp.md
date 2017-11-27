@@ -8,4 +8,4 @@
 
 * > 设如何快速设置word大纲模式
 
-![createorder](wordKuaisuSheZhiDaGang.png)
+![createorder](images/wordKuaisuSheZhiDaGang.png)
